@@ -1,6 +1,19 @@
 # note-daily
 
 
+# git操作 - 简易:
+
+
+
+## 拉趣
+git pull origin main
+
+## 提交
+git add .
+git commit -m "1"
+git push origin main
+
+
 # git操作:
 
 ## 查看工作区的修改状态（最常用）
@@ -36,3 +49,6 @@ git push origin 分支名
 
 ## 特殊情况：如果是第一次推送本地分支到远端，可能需要加 -u 建立关联：
 git push -u origin 分支名
+
+
+
